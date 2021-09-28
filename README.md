@@ -46,7 +46,7 @@ Removed list number，removed phonetic symbol，removed word information like n.
 
 https://www.textfromtospeech.com/zh/text-to-voice/
 
-(I speeded it a little, like 1.1x)
+(I speeded it a little up, like 1.1x)
 
 
 ## 3、Recording
