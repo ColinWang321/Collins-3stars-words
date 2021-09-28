@@ -58,7 +58,7 @@ https://www.textfromtospeech.com/zh/text-to-voice/
 "Save speech as file"
 
 A software will be used here：
-**vertual audio cable.  (https://vb-audio.com/Cable/index.htm)
+**vertual audio cable.**  (https://vb-audio.com/Cable/index.htm)
 
 **Reason：**
 
