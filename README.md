@@ -60,12 +60,12 @@ https://www.textfromtospeech.com/zh/text-to-voice/
 A software will be used here：
 **vertual audio cable.  (https://vb-audio.com/Cable/index.htm)
 
-**Reason：
+**Reason：**
 
 The recording function in this website getting sound signal from your micphone, so, we use this vertual cable to direct the read aloud sound back to the recording machine. 
 (上述录音的本质是通过麦克风截取电脑外放的声音，所以需要用VB将电脑外放的声音直接送回到录音机里面去。就像虚拟打印机将文档打印成PDF一样。)
 
-**Function：
+**Function：**
 
 Change audio output to **cable input**，then, the recording can get voice from **cable output**。
 
