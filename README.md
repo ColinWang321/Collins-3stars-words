@@ -9,6 +9,18 @@ Hope I can improve my vocabulary to 20,000
 
 ![360截图20191215171255005](https://user-images.githubusercontent.com/83932602/135008056-257ba77b-beb1-4ca7-bf06-a891afb04d52.jpg)
 
+柯林斯词典有一个高达2.5亿的语料库，从语料库中筛选出了最常用的14600词用五星标注。其中五级（最常用词，以下逐级次之）680词，四级1040词（累计1720词），三级1580词（累计3300词），二级3200词（累计6500词），一级8100词（累计14600词）。根据语料库的统计结果，掌握五级四级的前1720詞，就可以读通英語资料的75%，掌握五、四、三、二級的6500詞，就可以读通英語资料的90%，掌握这14600詞，就可以读懂任何英語资料的95%，即从理论上说，任何一篇100词的文章里大概只有5个词不认识。
+
+Collins dictionary has a 250 millons words database, we chose most frequently used 14600 words out and organized them into 5 levels. The 5 stars words is the most common words and 4 stars words is less frequency and so on. 
+
+ 5 Stars words: 680
+ 4 Stars words: 1040 (total 1720)
+ 3 Stars words: 1580 (total 3300)
+ 2 Stars words: 3200 (total 6500)
+ 1 Stars words: 8100 (total 14600)
+
+According to the statistics results, knowing the 1720 words of 5 stars words & 4 stars words, you can understand 75% of English materials. Knowing all 5.4.3.2 stars 6500 words, you can understand 90% of English materials. Knowing all 14600 words, you can understand 95% of all English material which means theoretically you can only find 5 unknown words in an article with 100 words. 
+
 
 Word File：
 
